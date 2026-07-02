@@ -1,7 +1,7 @@
 # Task 3: Dashboard Design – Global Superstore Sales Analysis
 
-![Dashboard Preview](<img width="1276" height="668" alt="Task3 dashboard" src="https://github.com/user-attachments/assets/85f098b7-8846-43a9-8bd2-27b069220fc2" />
-)
+![Dashboard Preview](Task3%20dashboard.png)
+
 ## Overview
 This project was completed as part of the **DataX Lab Internship – Task 3**. The objective was to design an interactive Power BI dashboard that enables business stakeholders to monitor sales performance and make data-driven decisions.
 
